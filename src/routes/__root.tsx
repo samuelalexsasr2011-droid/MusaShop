@@ -78,14 +78,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Maskote Pets | Pet Shop em Lagoa Santa - MG" },
-      { name: "description", content: "Conheça a Maskote Pets em Lagoa Santa. Consulte produtos, banho e tosa, atendimento veterinário e opções de contato." },
-      { name: "author", content: "Maskote Pets" },
-      { property: "og:title", content: "Maskote Pets | Pet Shop em Lagoa Santa - MG" },
+      { title: "MusaShop | Pet Shop em Lagoa Santa - MG" },
+      { name: "description", content: "Conheça a MusaShop em Lagoa Santa. Consulte produtos, banho e tosa, atendimento veterinário e opções de contato." },
+      { name: "author", content: "MusaShop" },
+      { property: "og:title", content: "MusaShop | Pet Shop em Lagoa Santa - MG" },
       { property: "og:description", content: "Produtos e serviços pet em Lagoa Santa. Carinho em cada cuidado." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:site", content: "@maskotepets" },
+      { name: "twitter:site", content: "@musashop" },
     ],
     links: [
       {
